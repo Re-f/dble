@@ -34,7 +34,7 @@ Support Distributed Transaction using two-phase commit. You can choose normal mo
 
 
 ## History
-dble is based on [MyCat](https://github.com/MyCATApache/Mycat-Server). Firstly we have to thank MyCat's contributors.
+dble is based on [MyCat](https://github.com/MyCATApache/Mycat-Server). First of all, thanks to those contributors from MyCat.
 
 For us, focus on MySQL is a better choice. So we cancelled the support for other databases, deeply improved/optimized its behavior on compatibility, complex query and distributed transaction. And of course, fixed lots of bugs.
 
@@ -76,7 +76,7 @@ for details on submitting patches and the contribution workflow.
 
 ## Contact us
 
-Dble has enterprise support plan, you may contact our sales team: 
+Dble has enterprise support plan, you can contact our sales team: 
 * Global Sales: 400-820-6580
 * North China: 86-13718877200, Mr.Wang
 * South China: 86-18503063188, Mr.Cao
